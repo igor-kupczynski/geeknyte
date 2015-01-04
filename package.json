@@ -7,7 +7,7 @@
         "egnyte-js-sdk": "git://github.com/egnyte/egnyte-js-sdk",
         "prompt": "^0.2.14"
     },
-    "license": "Apache2",
+    "license": "Apache 2.0",
     "private": true,
     "bin": {
         "setup-geeknyte": "bin/setup-geeknyte",
