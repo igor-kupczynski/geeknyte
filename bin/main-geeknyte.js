@@ -1,8 +1,8 @@
 'use strict';
 const user_action = process.argv[2] || "",
       user_action_args = process.argv.slice(3) || [],
-      egn = require('./lib/egn')(),
-      op = require('./lib/op.js')(egn.egnyte_js_sdk),
+      egn = require('./../lib/egn')(),
+      op = require('./../lib/op.js')(egn.egnyte_js_sdk),
       action = op.actions[user_action];
 
 if (!action) {

@@ -27,5 +27,5 @@ prompt.get(schema, function (err, result) {
     }
     let path = process.env.HOME + '/.egnyte-auth.json';
     fs.writeFileSync(path, JSON.stringify(result));
-    console.log("File " + path + " updated");
+    console.log("File " + path + " updated with your config. You can start geeknyting!");
 });

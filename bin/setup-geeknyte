@@ -1,0 +1,5 @@
+#!/bin/bash
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+NODE_CMD='/usr/bin/env node --harmony'
+
+$NODE_CMD $DIR/setup-geeknyte.js
