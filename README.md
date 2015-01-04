@@ -1,7 +1,7 @@
 Geeknyte
 ========
 
-Geeknyte is a command line [Egnyte](egnyte) client for linux.
+Geeknyte is a command line [Egnyte](http://www.egnyte.com/) client for linux.
 
 Project goals
 -------------
@@ -84,13 +84,9 @@ License
 
 (c) Copyright 2015 by Igor Kupczyński
 
-Licensed under [Apache 2.0 License](apache2).
+Licensed under [Apache 2.0 License](LICENSE.txt).
 
 _Disclaimer_ I work for Egnyte, but this project is my own effort. I
 developed it in my personal time with my own resources and using only
 publicly available documentation. I hope it may be useful or
-entertaining for you, but I can't guarantee it. Use at your own risk
-:-).
-
-[egnyte]: http://www.egnyte.com/
-[apache2]: LICENSE.txt
+entertaining for you, but I can't guarantee it. Use at your own risk.
