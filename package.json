@@ -1,0 +1,12 @@
+{
+  "name": "geeknyte",
+  "version": "0.0.1",
+  "description": "command line interface to egnyte",
+  "author": "Igor Kupczyński <igor@kupczynski.info>",
+  "dependencies": {
+    "egnyte-js-sdk": "git://github.com/egnyte/egnyte-js-sdk",
+    "prompt": "^0.2.14"
+  },
+  "license": "Apache2",
+  "private": true
+}
