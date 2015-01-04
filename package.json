@@ -8,7 +8,6 @@
         "prompt": "^0.2.14"
     },
     "license": "Apache 2.0",
-    "private": true,
     "bin": {
         "setup-geeknyte": "bin/setup-geeknyte",
         "setup-geeknyte.js": "bin/setup-geeknyte.js",
