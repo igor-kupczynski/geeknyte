@@ -13,5 +13,10 @@
         "setup-geeknyte.js": "bin/setup-geeknyte.js",
         "geeknyte": "bin/geeknyte",
         "main-geeknyte.js": "bin/main-geeknyte.js"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/puszczyk/geeknyte.git"
+    },
+    "bugs": "https://github.com/puszczyk/geeknyte/issues"
 }
