@@ -30,7 +30,7 @@ $ setup-geeknyte
 :username: username
 :password:   # this is not echoed, but is saved in plaintext to the config file
 :domain: https://yourdomain.egnyte.com
-:api_key: (yvxbjhfc4k6wb8gasuwnqakr)   # You can use the default one if you do have your own
+:api_key: api-key-goes-here  # You should request the api key at https://developers.egnyte.com
 File /home/igor/.egnyte-auth.json updated with your config. You can start geeknyting!
 ```
 

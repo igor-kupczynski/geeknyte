@@ -1,6 +1,6 @@
 {
     "name": "geeknyte",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "command line interface to egnyte",
     "author": "Igor Kupczyński <igor@kupczynski.info>",
     "dependencies": {

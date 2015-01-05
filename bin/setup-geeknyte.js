@@ -14,7 +14,7 @@ const fs = require('fs'),
                   required: true
               },
               "api_key": {
-                  default: "yvxbjhfc4k6wb8gasuwnqakr"
+                  required: true
               }
           }
       };
