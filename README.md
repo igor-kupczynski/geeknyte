@@ -54,6 +54,8 @@ pic.jpg   # The file is there
 
 ### Upload file
 
+[Issue #3](https://github.com/puszczyk/geeknyte/issues/3)
+
 ```
 $ geeknyte put pic.jpg /Shared/Temp/4.jpg
 
